@@ -27,8 +27,8 @@ Software Engineering Student enfocado en el desarrollo backend, móvil y sistema
 ### Mis Estadísticas en GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rober7o-Garcia&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roberto-garcía-tauriz&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 ---
@@ -36,4 +36,4 @@ Software Engineering Student enfocado en el desarrollo backend, móvil y sistema
 ### Conectemos
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roberto-garcía-tauriz)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu_rgarciat29@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rgarciat29@gmail.com)
