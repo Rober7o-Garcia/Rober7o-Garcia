@@ -1,6 +1,12 @@
 # ¡Hola! Soy Roberto 
 
-Software Engineering Student enfocado en el desarrollo backend, móvil y sistemas de datos. Me apasiona construir soluciones eficientes, estructurar arquitecturas escalables y aprender nuevas tecnologías continuamente.
+Estudiante de Ingeniería de Software enfocado en **Inteligencia Artificial y Desarrollo Full Stack**. Me especializo en el diseño, entrenamiento e implementación de modelos de Machine Learning y Deep Learning aplicados a la resolución de problemas reales, integrándolos con arquitecturas web y móviles robustas y escalables.
+
+---
+
+### 🧠 Inteligencia Artificial & Data Science
+* **Enfoque:** Entrenamiento, evaluación y despliegue de modelos para optimización y toma de decisiones.
+* **Técnicas & Áreas:** Machine Learning, Computer Vision, Model Fine-Tuning & Inferencia.
 
 ---
 
