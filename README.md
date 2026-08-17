@@ -4,7 +4,7 @@ Estudiante de Ingeniería de Software enfocado en **Inteligencia Artificial y De
 
 ---
 
-### 🧠 Inteligencia Artificial & Data Science
+### Inteligencia Artificial & Data Science
 * **Enfoque:** Entrenamiento, evaluación y despliegue de modelos para optimización y toma de decisiones.
 * **Técnicas & Áreas:** Machine Learning, Computer Vision, Model Fine-Tuning & Inferencia.
 
